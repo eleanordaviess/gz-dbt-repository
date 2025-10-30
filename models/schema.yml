@@ -9,12 +9,12 @@ sources:
         identifier: raw_product
       - name: raw_ship
         identifier: raw_ship
-      - name: raw_gz_adwords
-        identifier: gz_adwords
-      - name: raw_gz_bing
-        identifier: gz_bing
-      - name: raw_gz_criteo
-        identifier: gz_criteo
-      - name: raw_gz_facebook
-        identifier: gz_facebook
+      - name: adwords
+        identifier: raw_gz_adwords
+      - name: bing
+        identifier: raw_gz_bing
+      - name: criteo
+        identifier: raw_gz_criteo
+      - name: facebook
+        identifier: raw_gz_facebook
         
